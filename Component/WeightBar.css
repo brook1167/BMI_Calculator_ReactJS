@@ -1,0 +1,22 @@
+.weightbar {
+  width: 100%;
+  height: 200px;
+  color: white;
+  background-color: #090c22;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+button {
+  border: none;
+  margin-left: 10px;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: #212747;
+  color: white;
+}

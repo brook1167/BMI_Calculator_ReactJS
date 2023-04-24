@@ -1,0 +1,10 @@
+.navbar-style {
+  background-color: #090c22;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
