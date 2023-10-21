@@ -1,3 +1,3 @@
 # BMI_Calculator_ReactJS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-synkvb)
+demo: https://bmi-calculator-brook1167.netlify.app/
